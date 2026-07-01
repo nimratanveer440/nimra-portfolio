@@ -19,7 +19,7 @@ export const Route = createFileRoute("/")({
   component: Portfolio,
 });
 
-const CV_URL = "/Nimra_Tanveer_CV.pdf";
+const CV_URL = "/Nimra Tanveer_CV.pdf";
 const GITHUB = "https://github.com/nimratanveer440";
 const LINKEDIN = "https://www.linkedin.com/in/nimra-tanveer-7276303b7/";
 const EMAIL = "nimratanveer044@gmail.com";
